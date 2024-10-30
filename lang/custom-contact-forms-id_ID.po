@@ -1,0 +1,2543 @@
+# Teguh Dwicaksana <Teguh DC <dheche@songolimo.net>>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: custom-contact-forms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-20 11:25-0500\n"
+"PO-Revision-Date: 2013-04-09 17:28+0700\n"
+"Last-Translator: Teguh Dwicaksana <Teguh DC <dheche@songolimo.net>>\n"
+"Language-Team: Indonesian Team <trans-id@lists.fedoraproject.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../modules/images\n"
+"X-Poedit-SearchPath-2: ../modules/db\n"
+"X-Poedit-SearchPath-3: ../modules/export\n"
+"X-Poedit-SearchPath-4: ../modules/usage_popover\n"
+"X-Poedit-SearchPath-5: ../modules/widget\n"
+
+#: ../custom-contact-forms-admin.php:33
+msgid "Manage Custom Contact Forms"
+msgstr "Kelola Formulir Kontak Kastem"
+
+#: ../custom-contact-forms-admin.php:33
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: ../custom-contact-forms-admin.php:130
+#: ../custom-contact-forms-admin.php:203
+msgid "Nothing to show."
+msgstr "Tak ada yang perlu ditampilkan."
+
+#: ../custom-contact-forms-admin.php:159
+msgid "Invalid request."
+msgstr "Permintaan tidak valid."
+
+#: ../custom-contact-forms-admin.php:192
+msgid "Attaching"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:193
+msgid "Detaching"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:194
+#: ../custom-contact-forms-admin.php:544
+#: ../custom-contact-forms-admin.php:664
+#: ../custom-contact-forms-admin.php:846
+#: ../custom-contact-forms-admin.php:963
+#: ../custom-contact-forms-admin.php:1029
+#: ../custom-contact-forms-admin.php:1098
+#: ../custom-contact-forms-admin.php:1148
+#: ../custom-contact-forms-admin.php:1167
+#: ../custom-contact-forms-admin.php:1580
+#: ../custom-contact-forms-admin.php:1796
+msgid "Save"
+msgstr "Simpan"
+
+#: ../custom-contact-forms-admin.php:195
+#: ../custom-contact-forms-admin.php:606
+#: ../custom-contact-forms-admin.php:911
+msgid "Attach"
+msgstr "Lampirkan"
+
+#: ../custom-contact-forms-admin.php:196
+msgid "Saving"
+msgstr "Menyimpan"
+
+#: ../custom-contact-forms-admin.php:197
+msgid "More Options"
+msgstr "Pilihan Lainnya"
+
+#: ../custom-contact-forms-admin.php:198
+#: ../custom-contact-forms-admin.php:2005
+msgid "Expand"
+msgstr "Kembangkan"
+
+#: ../custom-contact-forms-admin.php:199
+msgid "Click to Confirm"
+msgstr "Klik untuk Mengkonfirmasi"
+
+#: ../custom-contact-forms-admin.php:201
+msgid "Are you sure you want to delete this"
+msgstr "Anda yakin ingin menghapus ini"
+
+#: ../custom-contact-forms-admin.php:202
+msgid "An error has occured. Please try again later."
+msgstr "Terjadi kesalahan. Silakan coba lagi nanti."
+
+#: ../custom-contact-forms-admin.php:204
+msgid "Nothing Attached!"
+msgstr "Tak ada yang dilampirkan!"
+
+#: ../custom-contact-forms-admin.php:205
+msgid "No Fields"
+msgstr "Tak ada Kolom"
+
+#: ../custom-contact-forms-admin.php:245
+msgid "A new form was successfully created!"
+msgstr "Sebuah formulir baru telah berhasil dibuat!"
+
+#: ../custom-contact-forms-admin.php:248
+msgid "A new field was successful created!"
+msgstr "Sebuah kolom baru telah berhasil dibuat!"
+
+#: ../custom-contact-forms-admin.php:251
+msgid "A new field option was successful created!"
+msgstr "Sebuah opsi kolom baru telah selesai dibuat!"
+
+#: ../custom-contact-forms-admin.php:254
+msgid "A new style was successful created!"
+msgstr "Sebuah gaya yang baru telah berhasil dibuat!"
+
+#: ../custom-contact-forms-admin.php:307
+msgid "Rate This Plugin"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:308
+msgid "We need your help to continue development! Please <span>rate this plugin</span> to show your support."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:331
+msgid "Default content has been inserted!"
+msgstr "Konten bawaan telah dimasukkan!"
+
+#: ../custom-contact-forms-admin.php:334
+msgid "Your message has been sent!"
+msgstr "Pesan Anda telah dikirim!"
+
+#: ../custom-contact-forms-admin.php:348
+#: ../custom-contact-forms-admin.php:1943
+#: ../custom-contact-forms-admin.php:2091
+#: ../custom-contact-forms-front.php:567
+#: ../custom-contact-forms.php:99
+#: ../custom-contact-forms.php:100
+msgid "Custom Contact Forms"
+msgstr "Formulir Kontak Kastem"
+
+#: ../custom-contact-forms-admin.php:356
+#: ../custom-contact-forms-admin.php:2467
+#: ../custom-contact-forms-admin.php:2485
+msgid "Forms"
+msgstr "Formulir"
+
+#: ../custom-contact-forms-admin.php:357
+#: ../custom-contact-forms-admin.php:2479
+msgid "Fields"
+msgstr "Kolom"
+
+#: ../custom-contact-forms-admin.php:358
+#: ../custom-contact-forms-admin.php:2491
+msgid "Field Options"
+msgstr "Opsi Kolom"
+
+#: ../custom-contact-forms-admin.php:359
+#: ../custom-contact-forms-admin.php:2497
+msgid "Styles"
+msgstr "Gaya"
+
+#: ../custom-contact-forms-admin.php:360
+msgid "Support"
+msgstr "Dukungan"
+
+#: ../custom-contact-forms-admin.php:361
+msgid "Advanced"
+msgstr "Tingkat lanjut"
+
+#: ../custom-contact-forms-admin.php:362
+msgid "News"
+msgstr "Berita"
+
+#: ../custom-contact-forms-admin.php:364
+msgid "Custom Contact Forms works best with any of the 20+ "
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:364
+msgid "Genesis"
+msgstr "Genesis"
+
+#: ../custom-contact-forms-admin.php:364
+msgid "Wordpress child themes. The"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:364
+msgid "Genesis Framework"
+msgstr "Genesis Framework"
+
+#: ../custom-contact-forms-admin.php:364
+msgid "empowers you to quickly and easily build incredible websites with WordPress."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:374
+msgid "WP Blogging Tips, Downloads, SEO Tricks & Exclusive Tutorials"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:388
+msgid "Create A Form"
+msgstr "Buat sebuah Formulir"
+
+#: ../custom-contact-forms-admin.php:396
+msgid "Form Slug:"
+msgstr "Slug Formulir:"
+
+#: ../custom-contact-forms-admin.php:400
+msgid "This is just a unique way for CCF to refer to your form. Must be unique from other slugs and contain only underscores and alphanumeric characters."
+msgstr ""
+"Ini hanyalah cara CCF yang unik untuk mengacu pada formulir Anda. Harus "
+"berbeda dari slug lain dan hanya berisi garis bawah dan karakter "
+"alfanumerik."
+
+#: ../custom-contact-forms-admin.php:404
+msgid "Form Title:"
+msgstr "Judul Formulir:"
+
+#: ../custom-contact-forms-admin.php:407
+msgid "This text is displayed above the form as the heading."
+msgstr "Teks ini ditampilkan di atas formulir sebagai judul."
+
+#: ../custom-contact-forms-admin.php:411
+msgid "Form Style:"
+msgstr "Gaya Formulir:"
+
+#: ../custom-contact-forms-admin.php:418
+msgid "Submit Button Text:"
+msgstr "Teks Tombol Kirim:"
+
+#: ../custom-contact-forms-admin.php:424
+msgid "Form Destination Email:"
+msgstr "Surel Tujuan Formulir:"
+
+#: ../custom-contact-forms-admin.php:428
+msgid "Will receive all submissions from this form; if left blank it will use the default specified in general settings. You can have form submissions sent to multiple emails by separating them with semicolons."
+msgstr ""
+"Akan menerima semua kiriman dari formulir ini; jika dibiarkan kosong ia akan "
+"menggunakan pengaturan umum yang telah ditentukan. Anda dapat membuat "
+"pengiriman formulir ke banyak surel dengan memisahkannya memakai titik koma."
+
+#: ../custom-contact-forms-admin.php:432
+msgid "Form Email Subject:"
+msgstr "Subjek Surel Formulir:"
+
+#: ../custom-contact-forms-admin.php:436
+msgid "When submitted and configured accordingly, the form will send an email with this subject."
+msgstr ""
+"Ketika dikirimkan dan dikonfigurasi dengan benar, formulir akan mengirim "
+"surel dengan subjek ini."
+
+#: ../custom-contact-forms-admin.php:440
+msgid "Form Email Name:"
+msgstr "Nama Surel Formulir:"
+
+#: ../custom-contact-forms-admin.php:444
+msgid "When submitted and configured accordingly, the form will send an email with this as the email 'from name'."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:450
+msgid "Form Success Message:"
+msgstr "Pesan Sukses Formulir:"
+
+#: ../custom-contact-forms-admin.php:454
+#: ../custom-contact-forms-admin.php:462
+msgid "Will be displayed in a popover when the form is filled out successfully when no custom success page is specified; if left blank it will use the default specified in general settings."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:458
+msgid "Form Success Message Title:"
+msgstr "Judul Pesan Sukses Formulir:"
+
+#: ../custom-contact-forms-admin.php:466
+msgid "Custom Success URL:"
+msgstr "URL Sukses Kastem:"
+
+#: ../custom-contact-forms-admin.php:470
+msgid "If this is filled out, users will be sent to this page when they successfully fill out this form. If it is left blank, a popover showing the form's 'success message' will be displayed on form success."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:473
+msgid "Who Can View This Form:"
+msgstr "Siapa yang Dapat Melihat Formulir Ini:"
+
+#: ../custom-contact-forms-admin.php:489
+msgid "Choose which types of users should be able to view this form."
+msgstr "Pilih jenis pengguna yang dapat melihat formulir ini."
+
+#: ../custom-contact-forms-admin.php:493
+msgid "Create Form"
+msgstr "Buat Formulir"
+
+#: ../custom-contact-forms-admin.php:495
+msgid "You should go to the form manager to attach fields to this form after you create it."
+msgstr ""
+"Anda harus pergi ke pengelolaan formulir untuk melampirkan kolom ke formulir "
+"ini setelah Anda membuatnya."
+
+#: ../custom-contact-forms-admin.php:503
+msgid "Manage Forms"
+msgstr "Kelola Formulir"
+
+#: ../custom-contact-forms-admin.php:511
+#: ../custom-contact-forms-admin.php:653
+msgid "Form Display Code"
+msgstr "Kode Tampilkan Formulir"
+
+#: ../custom-contact-forms-admin.php:512
+#: ../custom-contact-forms-admin.php:654
+msgid "Theme Display Code"
+msgstr "Kode Tampilkan Tema"
+
+#: ../custom-contact-forms-admin.php:513
+#: ../custom-contact-forms-admin.php:655
+#: ../custom-contact-forms-admin.php:810
+#: ../custom-contact-forms-admin.php:952
+#: ../custom-contact-forms-admin.php:977
+#: ../custom-contact-forms-admin.php:1087
+#: ../custom-contact-forms-admin.php:1115
+#: ../custom-contact-forms-admin.php:1125
+msgid "Slug"
+msgstr "Slug"
+
+#: ../custom-contact-forms-admin.php:514
+#: ../custom-contact-forms-admin.php:656
+msgid "Title"
+msgstr "Judul"
+
+#: ../custom-contact-forms-admin.php:515
+#: ../custom-contact-forms-admin.php:657
+msgid "Style"
+msgstr "Gaya"
+
+#: ../custom-contact-forms-admin.php:545
+#: ../custom-contact-forms-admin.php:665
+#: ../custom-contact-forms-admin.php:847
+#: ../custom-contact-forms-admin.php:964
+#: ../custom-contact-forms-admin.php:1149
+#: ../custom-contact-forms-admin.php:1168
+#: ../custom-contact-forms-admin.php:1581
+#: ../custom-contact-forms-admin.php:1797
+#: ../custom-contact-forms-admin.php:2006
+#: ../custom-contact-forms-admin.php:2046
+msgid "Delete"
+msgstr "Hapus"
+
+#: ../custom-contact-forms-admin.php:546
+#: ../custom-contact-forms-admin.php:848
+#: ../custom-contact-forms-admin.php:1030
+msgid "Options"
+msgstr "Pilihan"
+
+#: ../custom-contact-forms-admin.php:556
+msgid "Form submissions will be emailed to this address."
+msgstr "Kiriman formulir akan disurelkan ke alamat ini."
+
+#: ../custom-contact-forms-admin.php:557
+msgid "This is the form email subject sent to the destination email address. If left blank, the default from General Settings will be used."
+msgstr ""
+"Ini adalah subjek surel formulir yang dikirim ke alamat tujuan surel. Jika "
+"dibiarkan kosong, nilai baku dari Pengaturan Umum yang akan dipakai."
+
+#: ../custom-contact-forms-admin.php:558
+msgid "This is the from name of the email sent on successful form submission. If left blank, the default from General Settings will be used."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:562
+msgid "The Form Method is the method by which information is transfer through your form. If you aren't an expert with HTML and PHP, leave this as Post."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:565
+msgid "This lets you process your forms through alternate scripts. If you use a service like InfusionSoft or Aweber, set this to be the same form action as the code provided to you by that service, otherwise leave this blank."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:566
+msgid "Insert the page id's that your form will be used on. This will make it so the plugin will only load JS and CSS files on these select pages. This will improve your site's load time."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:567
+msgid "If you want to show this form to only certain types of users, you can uncheck boxes accordingly. To show this form to anyone, check all the boxes. This will only take effect if 'Form Access Capabilities' is enabled in general settings."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:586
+msgid "If this is filled out, users will be sent to this thank you page when they successfully fill out this form. If it is left blank, a popover showing the form's 'success message' will be displayed on form success."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:587
+msgid "This will be displayed as the header in a popover when the form is filled out successfully when no custom success page is specified; if left blank it will use the default specified in general settings."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:588
+msgid "This will be displayed in a popover when the form is filled out successfully when no custom success page is specified; if left blank it will use the default specified in general settings."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:593
+msgid "This text will display on the form submit button."
+msgstr "Teks ini akan tampil di tombol kirim formulir."
+
+#: ../custom-contact-forms-admin.php:594
+msgid "This field allows you to insert HTML directly after the starting <form> tag."
+msgstr ""
+"Kolom ini mengizinkan Anda untuk memasukkan HTML secara langsung setelah tag "
+"<form> awal."
+
+#: ../custom-contact-forms-admin.php:602
+msgid "Add A Field:"
+msgstr "Tambah Kolom:"
+
+#: ../custom-contact-forms-admin.php:609
+msgid "Attach fixed fields or ones you"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:611
+#: ../custom-contact-forms-admin.php:916
+msgid "create"
+msgstr "buat"
+
+#: ../custom-contact-forms-admin.php:616
+msgid "Attached Fields:"
+msgstr "Kolom yang Dilampirkan:"
+
+#: ../custom-contact-forms-admin.php:631
+msgid "Save Field Configuration"
+msgstr "Simpan Konfigurasi Kolom"
+
+#: ../custom-contact-forms-admin.php:643
+#: ../custom-contact-forms-admin.php:742
+#: ../custom-contact-forms-admin.php:838
+#: ../custom-contact-forms-admin.php:1011
+#: ../custom-contact-forms-admin.php:1021
+#: ../custom-contact-forms-admin.php:1144
+#: ../custom-contact-forms-admin.php:1209
+#: ../custom-contact-forms-admin.php:2132
+#: ../custom-contact-forms-admin.php:2276
+#: ../custom-contact-forms-admin.php:2308
+#: ../modules/db/custom-contact-forms-default-db.php:39
+msgid "Yes"
+msgstr "Ya"
+
+#: ../custom-contact-forms-admin.php:643
+#: ../custom-contact-forms-admin.php:739
+#: ../custom-contact-forms-admin.php:841
+#: ../custom-contact-forms-admin.php:1014
+#: ../custom-contact-forms-admin.php:1144
+#: ../custom-contact-forms-admin.php:1209
+#: ../custom-contact-forms-admin.php:2135
+#: ../custom-contact-forms-admin.php:2279
+#: ../custom-contact-forms-admin.php:2311
+msgid "No"
+msgstr "Tidak"
+
+#: ../custom-contact-forms-admin.php:663
+#: ../custom-contact-forms-admin.php:962
+#: ../custom-contact-forms-admin.php:1097
+#: ../custom-contact-forms-admin.php:1166
+#: ../custom-contact-forms-admin.php:1795
+#: ../custom-contact-forms-admin.php:2045
+msgid "Bulk Actions"
+msgstr "Tindakan Masal"
+
+#: ../custom-contact-forms-admin.php:666
+#: ../custom-contact-forms-admin.php:965
+#: ../custom-contact-forms-admin.php:1099
+#: ../custom-contact-forms-admin.php:1169
+#: ../custom-contact-forms-admin.php:1798
+#: ../custom-contact-forms-admin.php:2047
+msgid "Apply"
+msgstr "Lakukan"
+
+#: ../custom-contact-forms-admin.php:674
+msgid "Create A Form Field"
+msgstr "Buat Kolom Formulir"
+
+#: ../custom-contact-forms-admin.php:682
+msgid "Field Slug:"
+msgstr "Slug Kolom:"
+
+#: ../custom-contact-forms-admin.php:686
+msgid "This is just a unique way for CCF to refer to your field. Must be unique from other slugs and contain only underscores and alphanumeric characters."
+msgstr ""
+"Ini hanyalah cara CCF yang unik untuk mengacu pada kolom Anda. Harus berbeda "
+"dari slug lain dan hanya berisi garis bawah dan karakter alfanumerik."
+
+#: ../custom-contact-forms-admin.php:690
+msgid "Field Label:"
+msgstr "Label Kolom:"
+
+#: ../custom-contact-forms-admin.php:694
+msgid "The field label is displayed next to the field and is visible to the user."
+msgstr "Label kolom akan ditampilkan di sisi kolom dan terlihat oleh pengguna."
+
+#: ../custom-contact-forms-admin.php:698
+msgid "Field Type:"
+msgstr "Jenis Kolom:"
+
+#: ../custom-contact-forms-admin.php:713
+msgid "Initial Value:"
+msgstr "Nilai Awal:"
+
+#: ../custom-contact-forms-admin.php:717
+msgid ""
+"This is the initial value of the field. If you set the type as checkbox, it is recommend you set this to what the checkbox is implying. For example if I were creating the checkbox \n"
+"\t\t\t\t\t\t'Are you human?', I would set the initial value to 'Yes'."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:719
+msgid "If you set the field type as 'Dropdown' or 'Radio', you should enter the slug of the"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:720
+msgid "Create a Field Option"
+msgstr "Buat Opsi Kolom"
+
+#: ../custom-contact-forms-admin.php:720
+msgid "field option"
+msgstr "opsi kolom"
+
+#: ../custom-contact-forms-admin.php:721
+msgid "you would like initially selected."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:725
+#: ../custom-contact-forms-admin.php:878
+#: ../custom-contact-forms-admin.php:1070
+msgid "Max Length:"
+msgstr "Panjang Maks:"
+
+#: ../custom-contact-forms-admin.php:729
+msgid "0 for no limit; only applies to Text fields"
+msgstr "0 untuk tanpa batas; hanya berlaku untuk kolom teks"
+
+#: ../custom-contact-forms-admin.php:735
+msgid "Required Field:"
+msgstr "Kolom yang Diperlukan:"
+
+#: ../custom-contact-forms-admin.php:746
+msgid "If a field is required and a user leaves it blank, the plugin will display an error message (which you can customize using 'Field Error') explaining the problem."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:750
+#: ../custom-contact-forms-admin.php:858
+#: ../custom-contact-forms-admin.php:1047
+msgid "Field Instructions:"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:754
+#: ../custom-contact-forms-admin.php:857
+#: ../custom-contact-forms-admin.php:1046
+msgid "If this is filled out, a tooltip popover displaying this text will show when the field is selected."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:758
+#: ../custom-contact-forms-admin.php:872
+#: ../custom-contact-forms-admin.php:1039
+#: ../custom-contact-forms-admin.php:1062
+msgid "Field Class:"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:762
+msgid "If you manage your own .css stylesheet, you can use this to attach a class to this field. Leaving this blank will do nothing."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:766
+#: ../custom-contact-forms-admin.php:865
+#: ../custom-contact-forms-admin.php:1054
+msgid "Field Error:"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:770
+msgid "If a user leaves this field blank and the field is required, this error message will be shown. A generic default will show if left blank."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:774
+msgid "Max File Size Allowed:"
+msgstr "Ukuran Berkas Maks yang Diizinkan:"
+
+#: ../custom-contact-forms-admin.php:776
+#: ../custom-contact-forms-admin.php:886
+msgid "KB"
+msgstr "KB"
+
+#: ../custom-contact-forms-admin.php:778
+msgid "If a user tries to upload a file larger than the max upload size, an error message will be displayed."
+msgstr ""
+"Jika pengguna mencoba untuk mengunggah berkas yang berukuran lebih besar "
+"dari ukuran unggah maks, pesan kesalahan akan ditampilkan."
+
+#: ../custom-contact-forms-admin.php:782
+msgid "Allowed File Extensions for Upload:"
+msgstr "Ekstensi Berkas yang Diizinkan untuk Pengunggahan:"
+
+#: ../custom-contact-forms-admin.php:786
+msgid "If a user tries to upload a file with an extension not in this list, an error will be shown. Separate file extensions with a comma. Ex: doc, jpg, jpeg, txt. If left blank, all extensions will be allowed."
+msgstr ""
+"Jika pengguna mencoba untuk mengunggah berkas yang ekstensinya tidak ada "
+"dalam daftar ini, pesan kesalahan akan ditampilkan. Pisahkan ekstensi berkas "
+"memakai koma. Mis: doc, jpg, jpeg, txt. Jika dibiarkan kosong, semua "
+"ekstensi akan diizinkan."
+
+#: ../custom-contact-forms-admin.php:791
+msgid "Create Field"
+msgstr "Buat Kolom"
+
+#: ../custom-contact-forms-admin.php:793
+msgid "If this is a dropdown or radio field, you should go to the field manager below to attach field options after you create it."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:802
+msgid "Manage User Fields"
+msgstr "Kelola Kolom Pengguna"
+
+#: ../custom-contact-forms-admin.php:811
+#: ../custom-contact-forms-admin.php:953
+#: ../custom-contact-forms-admin.php:978
+#: ../custom-contact-forms-admin.php:1088
+#: ../custom-contact-forms-admin.php:1116
+#: ../custom-contact-forms-admin.php:1126
+msgid "Label"
+msgstr "Label"
+
+#: ../custom-contact-forms-admin.php:812
+#: ../custom-contact-forms-admin.php:954
+#: ../custom-contact-forms-admin.php:979
+#: ../custom-contact-forms-admin.php:1089
+msgid "Type"
+msgstr "Jenis"
+
+#: ../custom-contact-forms-admin.php:813
+#: ../custom-contact-forms-admin.php:955
+#: ../custom-contact-forms-admin.php:980
+#: ../custom-contact-forms-admin.php:1090
+msgid "Initial Value"
+msgstr "Nilai Awal"
+
+#: ../custom-contact-forms-admin.php:814
+#: ../custom-contact-forms-admin.php:956
+#: ../custom-contact-forms-admin.php:981
+#: ../custom-contact-forms-admin.php:1091
+msgid "Required"
+msgstr "Diperlukan"
+
+#: ../custom-contact-forms-admin.php:864
+#: ../custom-contact-forms-admin.php:1053
+msgid "This lets you customize the error message displayed when this field is required and left blank."
+msgstr ""
+"Ini membuat Anda dapat menyesuaikan pesan kesalahan yang ditampilkan ketika "
+"kolom ini diperlukan dan dibiarkan kosong."
+
+#: ../custom-contact-forms-admin.php:871
+#: ../custom-contact-forms-admin.php:1038
+#: ../custom-contact-forms-admin.php:1061
+#: ../custom-contact-forms-admin.php:1069
+msgid "If you manage a .CSS file for your theme, you could create a class in that file and add it to this field. If the form attaching this field is using a \"Form Style\" other than the default, styles inherited from the \"Field Class\" might be overwritten."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:877
+msgid "Max length allows you to set a cap on the amount of characters a user can submit."
+msgstr ""
+"Panjang maks mengizinkan Anda untuk menentukan batas jumlah karakter yang "
+"dapat dikirim oleh pengguna."
+
+#: ../custom-contact-forms-admin.php:884
+msgid "If a user tries to upload a file greater than the value in this field, an error will be shown. Upload size is in KB. If this is left blank or set to 0, then there will be no maximum file size for this field."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:885
+msgid "Max Upload Size:"
+msgstr "Ukuran Unggah Maks:"
+
+#: ../custom-contact-forms-admin.php:888
+msgid "If a user tries to upload a file with an extension not in this list, an error will be shown. If this is left blank, then all file extensions will be accepted. Separate file extensions with a comma. Ex: doc, jpg, jpeg, bmp, gif, txt"
+msgstr ""
+"Jika pengguna mencoba mengunggah berkas berekstensi yang tidak terdapat "
+"dalam daftar ini, akan dimunculkan pesan kesalahan. Jika ini dibiarkan "
+"kosong, maka semua ekstensi berkas akan diterima. Pisahkan ekstensi berkas "
+"dengan koma. Mis: doc, jpg, jpeg, bmp, gif, txt"
+
+#: ../custom-contact-forms-admin.php:889
+msgid "Allowed File Extensions:"
+msgstr "Ekstensi Berkas yang Diizinkan:"
+
+#: ../custom-contact-forms-admin.php:900
+msgid "Add A Field Option:"
+msgstr "Tambahkan Opsi Kolom:"
+
+#: ../custom-contact-forms-admin.php:914
+msgid "Attach field options you "
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:921
+msgid "Attached Field Options:"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:936
+msgid "Save Option Configuration"
+msgstr "Simpan Konfigurasi Pilihan"
+
+#: ../custom-contact-forms-admin.php:969
+msgid "Manage Fixed Fields"
+msgstr "Kelola Kolom Tetap"
+
+#: ../custom-contact-forms-admin.php:997
+#: ../custom-contact-forms-admin.php:2403
+msgid "None"
+msgstr "Tak Ada"
+
+#: ../custom-contact-forms-admin.php:1106
+msgid "Manage Field Options"
+msgstr "Kelola Opsi Kolom"
+
+#: ../custom-contact-forms-admin.php:1117
+#: ../custom-contact-forms-admin.php:1127
+msgid "Value"
+msgstr "Nilai"
+
+#: ../custom-contact-forms-admin.php:1118
+#: ../custom-contact-forms-admin.php:1128
+msgid "Is Dead"
+msgstr "Bukan Pilihan"
+
+#: ../custom-contact-forms-admin.php:1158
+msgid "No field options have been created."
+msgstr "Tak ada opsi kolom yang dibuat."
+
+#: ../custom-contact-forms-admin.php:1177
+msgid "Create A Field Option"
+msgstr "Buat Opsi Kolom"
+
+#: ../custom-contact-forms-admin.php:1185
+msgid "Option Slug:"
+msgstr "Slug Opsi:"
+
+#: ../custom-contact-forms-admin.php:1189
+msgid "Used to identify this option, solely for admin purposes; must be unique, and contain only letters, numbers, and underscores. Example: 'slug_one'"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:1193
+msgid "Option Label:"
+msgstr "Opsi Label:"
+
+#: ../custom-contact-forms-admin.php:1197
+msgid "This is what is shown to the user in the dropdown or radio field. Example: 'United States'"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:1201
+msgid "Option Value:"
+msgstr "Opsi Nilai:"
+
+#: ../custom-contact-forms-admin.php:1205
+msgid "This is the actual value of the option which is not shown to the user. This can be the same thing as the label. An example pairing of label => value is: 'The color green' => 'green' or 'Yes' => '1'. If you don't know what this is, leave it blank."
+msgstr ""
+"Ini adalah nilai yang sebenarnya dari opsi yang tidak ditampilkan ke "
+"pengguna. Ini dapat bernilai sama seperti label. Sebagai contoh memadukan "
+"label => nilai adalah: 'Warna Hijau' => 'hijau' atau 'Ya' => '1'. Jika Anda "
+"tidak tahu, biarkan kosong."
+
+#: ../custom-contact-forms-admin.php:1208
+msgid "Is Dead Option:"
+msgstr "Opsi Bukan Pilihan:"
+
+#: ../custom-contact-forms-admin.php:1211
+msgid "A dead option is something like 'Please Select One'. This is a useful tool for required dropdown fields. If a dead option is submitted by a user for a required dropdown field, then the user will have to go back and fill out the field again."
+msgstr ""
+"Opsi bukan pilihan adalah sesuatu seperti 'Silakan Pilih Satu'. Ini berguna "
+"untuk kolom dropdown yang diperlukan. Jika opsi bukan pilihan dikirim oleh "
+"pengguna untuk kolom dropdown yang diperlukan, maka pengguna tersebut harus "
+"kembali dan mengisi kolom itu lagi."
+
+#: ../custom-contact-forms-admin.php:1215
+msgid "Create Field Option"
+msgstr "Buat Opsi Kolom"
+
+#: ../custom-contact-forms-admin.php:1228
+msgid "Create A Style for Your Forms"
+msgstr "Buat Gaya untuk Formulir Anda"
+
+#: ../custom-contact-forms-admin.php:1232
+msgid "Use this manager to create styles for your forms. Each field is already filled out with nice look defaults. It is recommended you simply input a slug and click create to see the defaults before you start changing values."
+msgstr ""
+"Gunakan pengelolaan ini untuk membuat gaya untuk formulir Anda. Setiap kolom "
+"telah terisi dengan nilai baku yang indah dilihat. Direkomendasikan agar "
+"Anda hanya memasukkan slug dan klik buat untuk melihat tampilan bakunya "
+"sebelum Anda mulai mengubah-ubah nilainya."
+
+#: ../custom-contact-forms-admin.php:1239
+msgid "Style Slug:"
+msgstr "Slug Gaya:"
+
+#: ../custom-contact-forms-admin.php:1242
+msgid "(Must be unique)"
+msgstr "(Harus unik)"
+
+#: ../custom-contact-forms-admin.php:1246
+#: ../custom-contact-forms-admin.php:1651
+#: ../custom-contact-forms-admin.php:1660
+msgid "Title Font Size:"
+msgstr "Ukuran Huruf Judul:"
+
+#: ../custom-contact-forms-admin.php:1249
+msgid "(ex: 10pt, 10px, 1em)"
+msgstr "(mis: 10pt, 10px, 1em)"
+
+#: ../custom-contact-forms-admin.php:1253
+#: ../custom-contact-forms-admin.php:1699
+#: ../custom-contact-forms-admin.php:1767
+msgid "Title Font Color:"
+msgstr "Warna Huruf Judul:"
+
+#: ../custom-contact-forms-admin.php:1256
+#: ../custom-contact-forms-admin.php:1277
+#: ../custom-contact-forms-admin.php:1341
+#: ../custom-contact-forms-admin.php:1442
+#: ../custom-contact-forms-admin.php:1449
+#: ../custom-contact-forms-admin.php:1477
+msgid "(ex: FF0000)"
+msgstr "(mis: FF0000)"
+
+#: ../custom-contact-forms-admin.php:1260
+#: ../custom-contact-forms-admin.php:1624
+msgid "Label Width:"
+msgstr "Lebar Label:"
+
+#: ../custom-contact-forms-admin.php:1263
+msgid "(ex: 100px or 20%)"
+msgstr "(mis: 100px atau 20%)"
+
+#: ../custom-contact-forms-admin.php:1267
+#: ../custom-contact-forms-admin.php:1665
+msgid "Label Font Size:"
+msgstr "Ukuran Huruf Label:"
+
+#: ../custom-contact-forms-admin.php:1270
+#: ../custom-contact-forms-admin.php:1435
+msgid "(ex: 10px, 10pt, 1em)"
+msgstr "(mis: 10px, 10pt, 1em)"
+
+#: ../custom-contact-forms-admin.php:1274
+#: ../custom-contact-forms-admin.php:1704
+msgid "Label Font Color:"
+msgstr "Warna Huruf Label:"
+
+#: ../custom-contact-forms-admin.php:1281
+#: ../custom-contact-forms-admin.php:1591
+msgid "Text Field Width:"
+msgstr "Lebar Kolom Teks:"
+
+#: ../custom-contact-forms-admin.php:1284
+#: ../custom-contact-forms-admin.php:1291
+#: ../custom-contact-forms-admin.php:1298
+#: ../custom-contact-forms-admin.php:1378
+msgid "(ex: 100px or 100%)"
+msgstr "(mis: 100px atau 100%)"
+
+#: ../custom-contact-forms-admin.php:1288
+msgid "Textarea Field Width:"
+msgstr "Lebar Kolom Areateks:"
+
+#: ../custom-contact-forms-admin.php:1295
+msgid "Textarea Field Height:"
+msgstr "Tinggi Kolom Areateks:"
+
+#: ../custom-contact-forms-admin.php:1302
+#: ../custom-contact-forms-admin.php:1670
+msgid "Field Font Size:"
+msgstr "Ukuran Huruf Kolom:"
+
+#: ../custom-contact-forms-admin.php:1305
+msgid "(ex: 10px, 10pt, 1em"
+msgstr "(mis: 10px, 10pt, 1em"
+
+#: ../custom-contact-forms-admin.php:1309
+#: ../custom-contact-forms-admin.php:1709
+msgid "Field Font Color:"
+msgstr "Warna Huruf Kolom:"
+
+#: ../custom-contact-forms-admin.php:1312
+#: ../custom-contact-forms-admin.php:1348
+msgid "(ex: 333333)"
+msgstr "(mis: 333333)"
+
+#: ../custom-contact-forms-admin.php:1316
+#: ../custom-contact-forms-admin.php:1758
+msgid "Field Border Style:"
+msgstr "Gaya Bingkai Kolom:"
+
+#: ../custom-contact-forms-admin.php:1324
+#: ../custom-contact-forms-admin.php:1719
+msgid "Form Margin:"
+msgstr "Batas Formulir:"
+
+#: ../custom-contact-forms-admin.php:1327
+#: ../custom-contact-forms-admin.php:1334
+#: ../custom-contact-forms-admin.php:1456
+#: ../custom-contact-forms-admin.php:1463
+msgid "(ex: 5px or 1em)"
+msgstr "(mis: 5px atau 1em)"
+
+#: ../custom-contact-forms-admin.php:1331
+#: ../custom-contact-forms-admin.php:1611
+msgid "Label Margin:"
+msgstr "Batas Label:"
+
+#: ../custom-contact-forms-admin.php:1338
+msgid "Textarea Background Color:"
+msgstr "Warna Latar Belakang Areateks:"
+
+#: ../custom-contact-forms-admin.php:1345
+msgid "Success Popover Font Color:"
+msgstr "Warna Huruf Popover Sukses:"
+
+#: ../custom-contact-forms-admin.php:1352
+msgid "Success Popover Title Font Size:"
+msgstr "Ukuran Huruf Judul Popover Sukses:"
+
+#: ../custom-contact-forms-admin.php:1355
+#: ../custom-contact-forms-admin.php:1362
+#: ../custom-contact-forms-admin.php:1484
+#: ../custom-contact-forms-admin.php:1507
+msgid "(ex: 12px, 1em, 100%)"
+msgstr "(mis: 12px, 1em, 100%)"
+
+#: ../custom-contact-forms-admin.php:1359
+#: ../custom-contact-forms-admin.php:1655
+msgid "Form Background Color:"
+msgstr "Warna Latar Belakang Formulir:"
+
+#: ../custom-contact-forms-admin.php:1366
+msgid "Tooltip Background Color:"
+msgstr "Warna Latar Belakang Kalimat Bantuan:"
+
+#: ../custom-contact-forms-admin.php:1369
+msgid "(ex: 000000 or black)"
+msgstr "(mis: 000000 atau black)"
+
+#: ../custom-contact-forms-admin.php:1375
+#: ../custom-contact-forms-admin.php:1753
+msgid "Field Border Color:"
+msgstr "Warna Bingkai Kolom:"
+
+#: ../custom-contact-forms-admin.php:1382
+#: ../custom-contact-forms-admin.php:1736
+msgid "Form Border Style:"
+msgstr "Gaya Bingkai Formulir:"
+
+#: ../custom-contact-forms-admin.php:1390
+#: ../custom-contact-forms-admin.php:1748
+msgid "Form Border Color:"
+msgstr "Warna Bingkai Formulir:"
+
+#: ../custom-contact-forms-admin.php:1393
+msgid "(ex: 000000)"
+msgstr "(mis: 000000)"
+
+#: ../custom-contact-forms-admin.php:1397
+#: ../custom-contact-forms-admin.php:1743
+msgid "Form Border Width:"
+msgstr "Lebar Bingkai Formulir:"
+
+#: ../custom-contact-forms-admin.php:1400
+msgid "(ex: 1px)"
+msgstr "(mis: 1px)"
+
+#: ../custom-contact-forms-admin.php:1404
+#: ../custom-contact-forms-admin.php:1586
+msgid "Form Width:"
+msgstr "Lebar Formulir:"
+
+#: ../custom-contact-forms-admin.php:1407
+msgid "(ex: 100px or 50%)"
+msgstr "(mis: 100px atau 50%)"
+
+#: ../custom-contact-forms-admin.php:1411
+msgid "Form Font Family:"
+msgstr "Keluarga Huruf Formulir:"
+
+#: ../custom-contact-forms-admin.php:1414
+msgid "(ex: Verdana, Tahoma, Arial)"
+msgstr "(mis: Verdana, Tahoma, Arial)"
+
+#: ../custom-contact-forms-admin.php:1418
+#: ../custom-contact-forms-admin.php:1629
+msgid "Button Width:"
+msgstr "Lebar Tombol:"
+
+#: ../custom-contact-forms-admin.php:1421
+msgid "(ex: 100px, 30%, auto)"
+msgstr "(mis: 100px, 30%, auto)"
+
+#: ../custom-contact-forms-admin.php:1425
+#: ../custom-contact-forms-admin.php:1634
+msgid "Button Height:"
+msgstr "Tinggi Tombol:"
+
+#: ../custom-contact-forms-admin.php:1428
+msgid "(ex: 100px or 30%)"
+msgstr "(mis: 100px atau 30%)"
+
+#: ../custom-contact-forms-admin.php:1432
+#: ../custom-contact-forms-admin.php:1675
+msgid "Button Font Size:"
+msgstr "Ukuran Huruf Tombol:"
+
+#: ../custom-contact-forms-admin.php:1439
+#: ../custom-contact-forms-admin.php:1714
+msgid "Button Font Color:"
+msgstr "Warna Huruf Tombol:"
+
+#: ../custom-contact-forms-admin.php:1446
+#: ../custom-contact-forms-admin.php:1639
+msgid "Field Background Color:"
+msgstr "Warna Latar Belakang Kolom:"
+
+#: ../custom-contact-forms-admin.php:1453
+#: ../custom-contact-forms-admin.php:1680
+msgid "Form Padding:"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:1460
+#: ../custom-contact-forms-admin.php:1644
+msgid "Title Margin:"
+msgstr "Batas Judul:"
+
+#: ../custom-contact-forms-admin.php:1467
+#: ../custom-contact-forms-admin.php:1606
+msgid "Dropdown Width:"
+msgstr "Lebar Dropdown:"
+
+#: ../custom-contact-forms-admin.php:1470
+msgid "(ex: 30px, 20%, or auto)"
+msgstr "(mis: 30px, 20%, atau auto)"
+
+#: ../custom-contact-forms-admin.php:1474
+msgid "Success Popover Border Color:"
+msgstr "Warna Bingkai Popover Sukses:"
+
+#: ../custom-contact-forms-admin.php:1481
+msgid "Success Popover Font Size:"
+msgstr "Ukuran Huruf Popover Sukses:"
+
+#: ../custom-contact-forms-admin.php:1488
+msgid "Success Popover Height:"
+msgstr "Tinggi Popover Sukses:"
+
+#: ../custom-contact-forms-admin.php:1491
+msgid "(ex: 200px, 6em, 50%)"
+msgstr "(mis: 200px, 6em, 50%)"
+
+#: ../custom-contact-forms-admin.php:1495
+#: ../custom-contact-forms-admin.php:1772
+msgid "Field Border Roundness:"
+msgstr "Kelengkungan Bingkai Kolom:"
+
+#: ../custom-contact-forms-admin.php:1498
+msgid "(ex: 6px, or 0px)"
+msgstr "(mis: 6px, atau 0px)"
+
+#: ../custom-contact-forms-admin.php:1502
+#: ../custom-contact-forms-admin.php:1574
+#: ../custom-contact-forms-admin.php:1692
+msgid "Tooltip"
+msgstr "Kalimat bantuan"
+
+#: ../custom-contact-forms-admin.php:1503
+#: ../custom-contact-forms-admin.php:1575
+#: ../custom-contact-forms-admin.php:1693
+msgid "A tooltip is the little box that fades in displaying 'Field Instructions' when a user selects a particular field."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:1504
+#: ../custom-contact-forms-admin.php:1687
+msgid "Font Size:"
+msgstr "Ukuran Huruf:"
+
+#: ../custom-contact-forms-admin.php:1511
+msgid "Tooltip Font Color:"
+msgstr "Warna Huruf Kalimat Bantuan:"
+
+#: ../custom-contact-forms-admin.php:1514
+msgid "(ex: ffffff or white)"
+msgstr "(ex: ffffff atau white)"
+
+#: ../custom-contact-forms-admin.php:1518
+msgid "Create Style"
+msgstr "Buat Gaya"
+
+#: ../custom-contact-forms-admin.php:1527
+msgid "Manage Form Styles"
+msgstr "Kelola Gaya Formulir"
+
+#: ../custom-contact-forms-admin.php:1550
+msgid "Slug:"
+msgstr "Slug:"
+
+#: ../custom-contact-forms-admin.php:1555
+msgid "Font Family:"
+msgstr "Keluarga Huruf:"
+
+#: ../custom-contact-forms-admin.php:1560
+msgid "Textarea Background"
+msgstr "Latar belakang Areateks"
+
+#: ../custom-contact-forms-admin.php:1562
+msgid "Color:"
+msgstr "Warna:"
+
+#: ../custom-contact-forms-admin.php:1567
+#: ../custom-contact-forms-admin.php:1616
+#: ../custom-contact-forms-admin.php:1649
+#: ../custom-contact-forms-admin.php:1685
+#: ../custom-contact-forms-admin.php:1724
+#: ../custom-contact-forms-admin.php:1765
+msgid "Success Popover"
+msgstr "Popover Sukses"
+
+#: ../custom-contact-forms-admin.php:1569
+msgid "Border Color:"
+msgstr "Warna Bingkai:"
+
+#: ../custom-contact-forms-admin.php:1576
+#: ../custom-contact-forms-admin.php:1726
+msgid "Font Color:"
+msgstr "Warna Huruf:"
+
+#: ../custom-contact-forms-admin.php:1596
+msgid "Textarea Width:"
+msgstr "Lebar Areateks:"
+
+#: ../custom-contact-forms-admin.php:1601
+msgid "Textarea Height:"
+msgstr "Tinggi Areateks:"
+
+#: ../custom-contact-forms-admin.php:1618
+msgid "Height:"
+msgstr "Tinggi:"
+
+#: ../custom-contact-forms-admin.php:1694
+msgid "Background Color:"
+msgstr "Warna Latar Belakang:"
+
+#: ../custom-contact-forms-admin.php:1731
+msgid "Tooltip Font Size:"
+msgstr "Ukuran Huruf Kalimat Bantuan:"
+
+#: ../custom-contact-forms-admin.php:1804
+msgid "Report a Bug/Suggest a Feature"
+msgstr "Laporkan Bug/Sarankan Fitur"
+
+#: ../custom-contact-forms-admin.php:1812
+#: ../modules/db/custom-contact-forms-default-db.php:25
+msgid "Your Name:"
+msgstr "Nama Anda:"
+
+#: ../custom-contact-forms-admin.php:1818
+msgid "Your Email:"
+msgstr "Surel Anda:"
+
+#: ../custom-contact-forms-admin.php:1826
+msgid "Who Hosts Your Website?"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:1832
+msgid "Purpose of this message:"
+msgstr "Tujuan pesan ini:"
+
+#: ../custom-contact-forms-admin.php:1836
+msgid "Bug Report"
+msgstr "Laporan Bug"
+
+#: ../custom-contact-forms-admin.php:1839
+msgid "Suggest a Feature"
+msgstr "Sarankan sebuah Fitur"
+
+#: ../custom-contact-forms-admin.php:1842
+msgid "Plugin Question"
+msgstr "Pertanyaan tentang Pengaya"
+
+#: ../custom-contact-forms-admin.php:1850
+msgid "Version of Custom Contact Forms?"
+msgstr "Versi Custom Contact Forms?"
+
+#: ../custom-contact-forms-admin.php:1856
+msgid "Version of WordPress?"
+msgstr "Versi WordPress?"
+
+#: ../custom-contact-forms-admin.php:1864
+#: ../modules/db/custom-contact-forms-default-db.php:31
+msgid "Your Message:"
+msgstr "Pesan Anda:"
+
+#: ../custom-contact-forms-admin.php:1870
+#: ../modules/db/custom-contact-forms-default-db.php:53
+msgid "Send Message"
+msgstr "Kirim Pesan"
+
+#: ../custom-contact-forms-admin.php:1880
+msgid "Custom HTML Forms"
+msgstr "Formulir HTML Kastem"
+
+#: ../custom-contact-forms-admin.php:1884
+msgid ""
+"If you know HTML and simply want to use this plugin to process form requests, this feature is for you. \n"
+"\t\t\t\t\tThe following HTML is a the framework to which you must adhere. In order for your form to work you MUST do the following: a) Keep the form action/method the same (yes the action is supposed to be empty), b) Include all the hidden fields shown below, c) provide a \n"
+"\t\t\t\t\thidden field with a success message or thank you page (both hidden fields are included below, you must choose one or the other and fill in the value part of the input field appropriately."
+msgstr ""
+"Jika Anda menguasai HTML dan hanya ingin menggunakan pengaya ini untuk "
+"memproses permintaan formulir, fitur ini untuk Anda. \n"
+"\t\t\t\t\tHTML berikut ini merupakan kerangka kerja yang harus Anda patuhi. Agar "
+"formulir Anda untuk bekerja Anda HARUS melakukan hal berikut:\n"
+"a) Biarkan form action/method apa adanya (ya nilai action memang seharusnya "
+"kosong), b) Sertakan semua kolom tersembunyi yang tampil di bawah, c) "
+"sediakan \n"
+"\t\t\t\t\tkolom tersembunyi dengan pesan sukses atau halaman terima kasih (kedua "
+"kolom tersembunyi disertakan di bawah, Anda harus memilih salah satu dan "
+"isikan di bagian nilai dari kolom masukan sebagaimana mestinya)"
+
+#: ../custom-contact-forms-admin.php:1891
+msgid "Thank you for filling out our form!"
+msgstr "Terima kasih telah mengisi formulir kami!"
+
+#: ../custom-contact-forms-admin.php:1896
+msgid "Paste all this code into a page or post and edit it to your liking. It is recommended you only use this feature if you are experienced with HTML. The destination_email field specifies where emails will be sent on successful submission; you can have the form send to multiple addresses by separating email's with semi-colons (i.e. email@google.com; email2@google.com). The success_message field will add a popover containing the message when the form is completed successfully, the thank_you_page field will force the user to be redirected to that specific page on successful form completion. The required_fields hidden field is optional; to use it separate the field names you want required by commas. Remember to use underscores instead of spaces in field names!"
+msgstr ""
+"Salin semua kode ini ke dalam halaman atau kiriman dan sunting sesuka Anda. "
+"Direkomendasikan Anda hanya menggunakan fitur ini jika Anda menguasai HTML. "
+"Kolom destination_email menentukan kemana surel akan dikirim ketika "
+"pengiriman sukses; Anda dapat membuat formulir mengirimkan ke banyak alamat "
+"dengan memisahkan surel dengan titik koma (mis: email@google.com; "
+"email2@google.com). Kolom success_message akan menampilkan popover yang "
+"berisi pesan ketika formulir berhasil diselesaikan, kolom thank_you_page "
+"akan memaksa pengguna dialihkan ke halaman tertentu ketika formulir berhasil "
+"diselesaikan. Kolom tersembunyi required_fields bersifat opsional; untuk "
+"menggunakannya pisahkan nama kolom yang Anda ingin tetapkan sebagai "
+"diperlukan dengan koma. Ingat untuk menggunakan garis bawah alih-alih spasi "
+"di nama kolom!"
+
+#: ../custom-contact-forms-admin.php:1906
+msgid "Custom Contact Forms Plugin News"
+msgstr "Berita Pengaya Custom Contact Forms"
+
+#: ../custom-contact-forms-admin.php:1970
+#: ../custom-contact-forms.php:101
+msgid "Saved Form Submissions"
+msgstr "Simpan Kiriman Formulir"
+
+#: ../custom-contact-forms-admin.php:1977
+#: ../custom-contact-forms-admin.php:2035
+msgid "Date Submitted"
+msgstr "Tanggal Pengiriman"
+
+#: ../custom-contact-forms-admin.php:1978
+#: ../custom-contact-forms-admin.php:2036
+#: ../modules/export/custom-contact-forms-export.php:24
+msgid "Form Submitted"
+msgstr "Formulir Telah Dikirim"
+
+#: ../custom-contact-forms-admin.php:1979
+#: ../custom-contact-forms-admin.php:2037
+msgid "Form Page"
+msgstr "Halaman Formulir"
+
+#: ../custom-contact-forms-admin.php:1980
+#: ../custom-contact-forms-admin.php:2038
+#: ../modules/export/custom-contact-forms-export.php:24
+msgid "Form ID"
+msgstr "ID Formulir"
+
+#: ../custom-contact-forms-admin.php:1999
+msgid "Custom HTML Form"
+msgstr "Formulir HTML Kastem"
+
+#: ../custom-contact-forms-admin.php:2078
+msgid "Your settings have been successfully saved!"
+msgstr "Pengaturan Anda telah berhasil disimpan!"
+
+#: ../custom-contact-forms-admin.php:2083
+msgid "Your mail settings have been successfully saved!"
+msgstr "Pengaturan surel Anda telah berhasil disimpan!"
+
+#: ../custom-contact-forms-admin.php:2121
+#: ../custom-contact-forms.php:102
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: ../custom-contact-forms-admin.php:2128
+msgid "Email Form Submissions:"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2140
+msgid "When a user fills out one of your forms, the info submitted is saved in the Saved Form Submission section of the admin panel for you to view. If this is enabled, you will also be sent an email containing the submission info."
+msgstr ""
+"Ketika pengguna mengisi salah satu formulir Anda, info yang dikirim disimpan "
+"di bagian Kiriman Formulir Tersimpan di panel admin agar bisa Anda lihat. "
+"Jika ini diaktifkan, Anda juga akan dikirimi surel yang berisi tentang info "
+"kiriman."
+
+#: ../custom-contact-forms-admin.php:2144
+msgid "Default Email:"
+msgstr "Surel Baku:"
+
+#: ../custom-contact-forms-admin.php:2149
+msgid "Form emails will be sent <span>to</span> this address, if no destination email is specified by the form."
+msgstr ""
+"Surel formulir akan dikirim <span>ke</span> alamat ini, jika tidak ada surel "
+"tujuan yang ditentukan oleh formulir."
+
+#: ../custom-contact-forms-admin.php:2153
+msgid "Front End JQuery:"
+msgstr "JQuery Front End:"
+
+#: ../custom-contact-forms-admin.php:2157
+#: ../custom-contact-forms-admin.php:2200
+#: ../custom-contact-forms-admin.php:2292
+#: ../custom-contact-forms-admin.php:2335
+msgid "Enabled"
+msgstr "Diaktifkan"
+
+#: ../custom-contact-forms-admin.php:2160
+#: ../custom-contact-forms-admin.php:2203
+#: ../custom-contact-forms-admin.php:2295
+#: ../custom-contact-forms-admin.php:2332
+msgid "Disabled"
+msgstr "Dinonaktifkan"
+
+#: ../custom-contact-forms-admin.php:2165
+#, php-format
+msgid "Some plugins don't setup JQuery correctly, so when any other plugin uses JQuery (whether correctly or not), JQuery works for neither plugin. This plugin uses JQuery correctly. If another plugin isn't using JQuery correctly but is more important to you than this one: disable this option. 99% of this plugin's functionality will work without JQuery, just no field instruction tooltips."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2169
+msgid "Default From Email:"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2174
+msgid "Form emails will be sent <span>from</span> this address. It is recommended you provide a real email address that has been created through your host."
+msgstr ""
+"Surel formulir akan dikirim <span>dari</span> alamat ini. Direkomendasikan "
+"Anda menyediakan alamat surel riil yang telah dibuat di server Anda."
+
+#: ../custom-contact-forms-admin.php:2178
+msgid "Default From Name:"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2183
+msgid "This setting allows you to specify the name under which form emails are sent. The default is 'Custom Contact Forms'."
+msgstr ""
+"Pengaturan ini mengizinkan Anda menetapkan atas nama siapa surel formulir "
+"ini dikirim. Nama bakunya adalah 'Custom Contact Forms'"
+
+#: ../custom-contact-forms-admin.php:2187
+msgid "Default Email Subject:"
+msgstr "Subjek Surel Baku:"
+
+#: ../custom-contact-forms-admin.php:2192
+msgid "Default subject to be included in all form emails."
+msgstr "Subjek baku yang akan disertakan di semua surel formulir."
+
+#: ../custom-contact-forms-admin.php:2196
+msgid "Enable Dashboard Widget:"
+msgstr "Aktifkan Widget Dasbor:"
+
+#: ../custom-contact-forms-admin.php:2207
+msgid "Enabling this will display a widget on your dashboard that shows the latest form submissions."
+msgstr ""
+"Dengan mengaktifkan ini maka akan ditampilkan sebuah widget di dasbor Anda "
+"yang akan menampilkan kiriman formulir terbaru."
+
+#: ../custom-contact-forms-admin.php:2211
+msgid "Dashboard Widget Accessibility:"
+msgstr "Keteraksesan Widget Dasbor:"
+
+#: ../custom-contact-forms-admin.php:2215
+msgid "Only admins can view"
+msgstr "Hanya admin yang dapat melihat"
+
+#: ../custom-contact-forms-admin.php:2218
+msgid "All roles except subscribers can view"
+msgstr "Semua peran kecuali pelanggan dapat melihat"
+
+#: ../custom-contact-forms-admin.php:2221
+msgid "All roles can view"
+msgstr "Semua peran dapat melihat"
+
+#: ../custom-contact-forms-admin.php:2225
+msgid "If you are using the dashboard widget, this allows you to disallow certain users from viewing it."
+msgstr ""
+"Jika Anda menggunakan widget dasbor, ini membuat Anda dapat menolak "
+"pengguna-pengguna tertentu untuk melihatnya."
+
+#: ../custom-contact-forms-admin.php:2229
+msgid "Use Code Type:"
+msgstr "Gunakan Jenis Kode:"
+
+#: ../custom-contact-forms-admin.php:2237
+msgid "This lets you switch the form code between HTML and XHTML."
+msgstr "Ini memungkinkan Anda mengalihkan kode formulir antara HTML dan XHTML."
+
+#: ../custom-contact-forms-admin.php:2244
+msgid "Default Form Success Message Title:"
+msgstr "Judul Pesan Sukses Formulir Baku:"
+
+#: ../custom-contact-forms-admin.php:2249
+msgid "If someone fills out a form for which a success message title is not provided and a custom success page is not provided, the plugin will show a popover using this field as the window title."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2254
+msgid "Default Form Success Message:"
+msgstr "Pesan Sukses Formulir Baku:"
+
+#: ../custom-contact-forms-admin.php:2259
+msgid "If someone fills out a form for which a success message is not provided and a custom success page is not provided, the plugin will show a popover containing this message."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2263
+msgid "Default Form Error Header:"
+msgstr "Header Pesan Kesalahan Formulir Baku:"
+
+#: ../custom-contact-forms-admin.php:2268
+msgid "When a form is filled out incorrectly, this message will be displayed followed by the individual field error messages."
+msgstr ""
+"Ketika formulir diisi dengan tidak tepat, pesan ini akan ditampilkan diikuti "
+"oleh pesan kesalahan kolom individu."
+
+#: ../custom-contact-forms-admin.php:2272
+msgid "Remember Field Values:"
+msgstr "Ingat Nilai Kolom:"
+
+#: ../custom-contact-forms-admin.php:2284
+msgid "Selecting yes will make form fields remember how they were last filled out."
+msgstr ""
+"Dengan memilih ya akan membuat kolom formulir mengingat bagaimana ia diisi "
+"terakhir kali."
+
+#: ../custom-contact-forms-admin.php:2288
+msgid "Tooltips in Widget:"
+msgstr "Kalimat Bantuan di Widget:"
+
+#: ../custom-contact-forms-admin.php:2300
+msgid "Enabling this shows tooltips containing field instructions on forms in the widget."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2304
+msgid "Restrict Frontend JS and CSS to Form Pages Only:"
+msgstr "Batasi Frontend JS dan CSS Hanya di Halaman Formulir Saja:"
+
+#: ../custom-contact-forms-admin.php:2315
+msgid "Within each form in the form manager, you can specify the page id's on which that form will be used. If you set this to 'Yes', the plugin will only include CSS and JS files on pages/posts where a CCF form is inserted. If this is set to 'No', CSS and JS files for this plugin will be included on every page of your site except in the admin area."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2319
+msgid "Default Permissions Error:"
+msgstr "Pesan Kesalahan Hak Akses Baku:"
+
+#: ../custom-contact-forms-admin.php:2324
+msgid "When someone doesn't have the proper permissions to use a form, this message is displayed in place of the form. You control who can view each form with the form access manager which is located inside the form manager."
+msgstr ""
+"Ketika seseorang tidak memiliki hak akses yang sesuai untuk menggunakan "
+"formulir, pesan ini ditampilkan. Anda mengontrol siapa yang dapat melihat "
+"tiap formulir menggunakan pengelolaan akses formulir yang berlokasi di dalam "
+"pengelolaan formulir."
+
+#: ../custom-contact-forms-admin.php:2328
+msgid "Form Access Capabilities:"
+msgstr "Kemampuan Akses Formulir:"
+
+#: ../custom-contact-forms-admin.php:2340
+msgid "The form access manager within each form allows you to control who can view your form. However, that will not take effect on any of your forms unless this is enabled."
+msgstr ""
+"Pengelolaan akses formulir dalam tiap formulir memungkinkan Anda mengontrol "
+"siapa yang dapat melihat formulir Anda. Bagaimana pun juga, ini tidak akan "
+"berefek pada formulir Anda kecuali Anda mengaktifkannya."
+
+#: ../custom-contact-forms-admin.php:2344
+msgid "Maximum File Upload Size:"
+msgstr "Ukuran Unggah Berkas Maks:"
+
+#: ../custom-contact-forms-admin.php:2346
+msgid "MB"
+msgstr "MB"
+
+#: ../custom-contact-forms-admin.php:2350
+msgid "When creating file fields, you can specify maximum upload sizes for each individual field. This setting lets you set an overall cap for security reasons. It is recommended you leave this at 10 MB."
+msgstr ""
+"Ketika membuat kolom berkas, Anda dapat menentukan ukuran unggah maksimum "
+"untuk setiap individu kolom. Pengaturan ini memungkinkan Anda mengatur "
+"batasan keseluruhan untuk alasan keamanan. Disarankan Anda membiarkan ini di "
+"10 MB."
+
+#: ../custom-contact-forms-admin.php:2353
+msgid "Show Sidebar Widget:"
+msgstr "Tampilkan Widget Sidebar:"
+
+#: ../custom-contact-forms-admin.php:2358
+msgid "On Homepage"
+msgstr "di Beranda"
+
+#: ../custom-contact-forms-admin.php:2362
+msgid "On Pages"
+msgstr "di Halaman"
+
+#: ../custom-contact-forms-admin.php:2366
+msgid "On Single Posts"
+msgstr "di Kiriman Tunggal"
+
+#: ../custom-contact-forms-admin.php:2371
+msgid "On Categories"
+msgstr "di Kategori"
+
+#: ../custom-contact-forms-admin.php:2375
+msgid "On Archives"
+msgstr "di Arsip"
+
+#: ../custom-contact-forms-admin.php:2380
+msgid "Update"
+msgstr "Perbarui"
+
+#: ../custom-contact-forms-admin.php:2388
+msgid "Mail Settings"
+msgstr "Pengaturan Surel"
+
+#: ../custom-contact-forms-admin.php:2392
+msgid "There are two ways you can send emails: using the PHP mail() function or using SMTP (secure/insecure). If you choose to use the PHP mail() function you can ignore all the other options. For some people Wordpress's default way of sending mail does not work; if for some reason your mail is being sent you should try the SMTP option."
+msgstr ""
+"Ada dua cara Anda dapat mengirim surel: menggunakan fungsi mail() PHP atau "
+"menggunakan SMTP (aman/tak aman). Jika Anda memilih untuk menggunakan fungsi "
+"mail() PHP Anda dapat mengabaikan semua opsi lainnya. Untuk sebagian orang "
+"cara  bawaan Wordpress mengirimkan surel tidak dapat dipakai; jika karena "
+"suatu alasan surel Anda tidak dapat terkirim Anda dapat mencoba opsi SMTP."
+
+#: ../custom-contact-forms-admin.php:2393
+msgid "* Send My Emails Using the Following:"
+msgstr "* Kirim Surel Saya Menggunakan:"
+
+#: ../custom-contact-forms-admin.php:2395
+msgid "Wordpress Default"
+msgstr "Bawaan Wordpress"
+
+#: ../custom-contact-forms-admin.php:2396
+msgid "SMTP"
+msgstr "SMTP"
+
+#: ../custom-contact-forms-admin.php:2397
+msgid "(If mail isn't sending, try toggling this option.)"
+msgstr "(Jika surel tidak terkirim, coba ubah-ubahlah opsi ini.)"
+
+#: ../custom-contact-forms-admin.php:2400
+msgid "SMTP Host:"
+msgstr "Host SMTP:"
+
+#: ../custom-contact-forms-admin.php:2401
+msgid "SMTP Port:"
+msgstr "Port SMTP:"
+
+#: ../custom-contact-forms-admin.php:2402
+msgid "Encryption:"
+msgstr "Enkripsi:"
+
+#: ../custom-contact-forms-admin.php:2404
+msgid "SSL"
+msgstr "SSL"
+
+#: ../custom-contact-forms-admin.php:2405
+msgid "TLS"
+msgstr "TLS"
+
+#: ../custom-contact-forms-admin.php:2409
+msgid "SMTP Authentication:"
+msgstr "Otentikasi SMTP:"
+
+#: ../custom-contact-forms-admin.php:2409
+msgid "None Needed"
+msgstr "Tak ada yang diperlukan"
+
+#: ../custom-contact-forms-admin.php:2409
+msgid "Use SMTP Username/Password"
+msgstr "Gunakan Nama Pengguna/Kata Sandi SMTP"
+
+#: ../custom-contact-forms-admin.php:2410
+msgid "SMTP Username:"
+msgstr "Nama Pengguna SMTP:"
+
+#: ../custom-contact-forms-admin.php:2411
+msgid "SMTP Password:"
+msgstr "Kata Sandi SMTP:"
+
+#: ../custom-contact-forms-admin.php:2414
+msgid "Save Mail Sending Options"
+msgstr "Simpan Opsi Pengiriman Surel"
+
+#: ../custom-contact-forms-admin.php:2420
+msgid "Export"
+msgstr "Ekspor"
+
+#: ../custom-contact-forms-admin.php:2427
+msgid ""
+"Preforming this export will create a file of the form \n"
+"\t\t\t\t\t\tccf-export-xxxx.sql on your web server. The file created contains SQL that \n"
+"\t\t\t\t\t\twill recreate all the plugin data on any Wordpress installation. After Custom Contact Forms creates the export file, you will be prompted to download it. You can use this file as a backup in case your Wordpress database gets ruined."
+msgstr ""
+"Saat menjalankan ekspor ini maka akan dibuat sebuah berkas dalam bentuk\n"
+"\t\t\t\t\t\tccf-export-xxxx.sql di server web. Berkas yang dibuat berisi SQL yang \n"
+"\t\t\t\t\t\takan membuat ulang semua data pengaya di instalasi Wordpress. Setelah "
+"Custom Contact Forms membuat berkas ekspor, Anda akan diminta untuk "
+"mengunduhnya. Anda dapat menggunakan berkas ini sebagai cadangan bila "
+"sewaktu-waktu basis data Wordpress Anda rusak."
+
+#: ../custom-contact-forms-admin.php:2431
+msgid "Export All CCF Plugin Content"
+msgstr "Ekspor Semua Konten Pengaya CCF"
+
+#: ../custom-contact-forms-admin.php:2434
+msgid "You can export your form submissions in to a convienent format. Clicking the button below will prompt you to download a .CSV file that contains all your saved form submissions. Since this export contains multiple forms that are assumed to have different fields, this export will only contain the value of each field and not the name of that field."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2435
+msgid "Export All Saved Form Submissions to CSV"
+msgstr "Ekspor Semua Kiriman Formulir ke CSV"
+
+#: ../custom-contact-forms-admin.php:2438
+msgid "You can also export only submissions from certain forms in to CSV format. This CSV export will probably more useful to you because it will contain the name of fields as well as the values. This export works best on forms that have fields that have remained completely constant throughout submission."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2439
+msgid "Export This Form's Submissions to CSV"
+msgstr "Ekspor Kiriman Formulir Ini ke CSV"
+
+#: ../custom-contact-forms-admin.php:2446
+msgid "Import"
+msgstr "Impor"
+
+#: ../custom-contact-forms-admin.php:2452
+msgid "Browse to a CCF .sql export file to import Custom Contact Form data from another Wordpress installation to this one. Pressing the 'Clear and Import' button deletes all current data and then imports the selected file; this will not work for merging to data!. Clearing all CCF data before importing prevents any conflicts from occuring. Before you attempt an import, you should always download a backup, by clicking the 'Export All' button."
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2455
+msgid "Choose What You Want to Use from the Import File:"
+msgstr ""
+
+#: ../custom-contact-forms-admin.php:2461
+msgid "Use General Settings"
+msgstr "Gunakan Pengaturan Umum"
+
+#: ../custom-contact-forms-admin.php:2473
+msgid "Form Submissions"
+msgstr "Kiriman Formulir"
+
+#: ../custom-contact-forms-admin.php:2503
+msgid "Choose an Import File:"
+msgstr "Pilih Sebuah Berkas Impor:"
+
+#: ../custom-contact-forms-admin.php:2507
+msgid "Clear and Import"
+msgstr "Bersihkan dan Impor"
+
+#: ../custom-contact-forms-admin.php:2509
+msgid "Yes, I want to do this and have created a backup."
+msgstr "Ya, Saya ingin melakukan ini dan telah membuat sebuah cadangan."
+
+#: ../custom-contact-forms-front.php:134
+msgid "Go Back"
+msgstr "Kembali"
+
+#: ../custom-contact-forms-front.php:134
+msgid "Go Back to Form."
+msgstr "Kembali ke Formulir."
+
+#: ../custom-contact-forms-front.php:227
+msgid "(required)"
+msgstr "(diperlukan)"
+
+#: ../custom-contact-forms-front.php:349
+#: ../custom-contact-forms-front.php:376
+msgid "An error occured while uploading: "
+msgstr "Terjadi kesalahan saat mengunggah:"
+
+#: ../custom-contact-forms-front.php:351
+msgid " is too large of a file. The maximum file size for that field is "
+msgstr ""
+" terlalu besar untuk sebuah berkas. Ukuran maksimum berkas untuk kolom itu "
+"adalah"
+
+#: ../custom-contact-forms-front.php:351
+msgid " KB."
+msgstr " KB."
+
+#: ../custom-contact-forms-front.php:355
+msgid " is an invalid file extension."
+msgstr " adalah ekstensi berkas yang tidak valid."
+
+#: ../custom-contact-forms-front.php:385
+msgid "You left this field blank: "
+msgstr "Anda membiarkan kolom ini kosong:"
+
+#: ../custom-contact-forms-front.php:386
+msgid "Form Displayed on Page: "
+msgstr "Formulir Ditampilkan di Halaman:"
+
+#: ../custom-contact-forms-front.php:387
+msgid "Sender IP: "
+msgstr "IP Pengirim:"
+
+#: ../custom-contact-forms-front.php:463
+msgid "Only humans can use this form."
+msgstr "Hanya manusia yang dapat menggunakan formulir ini."
+
+#: ../custom-contact-forms-front.php:469
+msgid "You copied the number from the captcha field incorrectly."
+msgstr "Anda menyalin nomor dari kolom captcha secara tidak benar."
+
+#: ../custom-contact-forms-front.php:475
+msgid "The email address you provided is not valid."
+msgstr "Alamat surel yang Anda berikan tidak valid."
+
+#: ../custom-contact-forms-front.php:481
+msgid "The website address you provided is not valid."
+msgstr "Alamat situs web yang Anda berikan tidak valid."
+
+#: ../custom-contact-forms-front.php:538
+msgid "Not Checked"
+msgstr "Tidak Dicontreng"
+
+#: ../custom-contact-forms-front.php:584
+msgid "To view the message, please use an HTML compatible email viewer."
+msgstr ""
+"Untuk melihat isi pesan, sila gunakan pelihat surel yang kompatibel dengan "
+"HTML."
+
+#: ../custom-contact-forms-front.php:609
+msgid "Captcha image for Custom Contact Forms plugin. You must type the numbers shown in the image"
+msgstr ""
+"Gambar captcha untuk pengaya Custom Contact Forms. Anda harus menulis angka "
+"yang tampak di gambar."
+
+#: ../custom-contact-forms-utils.php:69
+msgid "Use this field if you want the plugin to throw an error on fake emails."
+msgstr ""
+"Gunakan kolom ini jika Anda ingin pengaya menampilkan pesan kesalahan bila "
+"ada yang memasukkan surel palsu."
+
+#: ../custom-contact-forms-utils.php:70
+msgid "This field will throw an error on invalid website addresses."
+msgstr ""
+"Kolom ini akan menampilkan pesan kesalahan pada alamat situs web yang tidak "
+"valid."
+
+#: ../custom-contact-forms-utils.php:71
+msgid "This field lets users specify the subject of the email sent to you on submission."
+msgstr ""
+"Kolom ini membuat pengguna dapat menentukan subjek surel yang dikirim ke "
+"Anda."
+
+#: ../custom-contact-forms-utils.php:73
+msgid "This field requires users to type numbers in an image preventing spam."
+msgstr ""
+"Kolom ini mewajibkan pengguna untuk memasukkan angka yang muncul di gambar "
+"untuk mencegah spam."
+
+#: ../custom-contact-forms-utils.php:74
+msgid "This field requires users to check a box to prove they aren't a spam bot."
+msgstr ""
+"Kolom ini mewajibkan pengguna untuk mencontreng kotak untuk membuktikan "
+"mereka bukan bot spam."
+
+#: ../custom-contact-forms-utils.php:75
+msgid "This is a dropdown field showing each state in the US. If you want a state initially selected, enter it in 'Initial Value.'"
+msgstr ""
+"Ini adalah kolom dropdown yang menampilkan tiap negara bagian di AS. Jika "
+"Anda ingin salah satu negara bagian terpilih pada saat awal, masukkan negara "
+"bagian tersebut di 'Nilai Awal'."
+
+#: ../custom-contact-forms-utils.php:76
+msgid "This field displays a text box that when clicked pops up an interactive calender.'"
+msgstr ""
+"Kolom ini menampilkan kotak teks yang ketika diklik akan mengeluarkan "
+"kalender interaktif.'"
+
+#: ../custom-contact-forms-utils.php:77
+msgid "This is a dropdown field showing countries. If you want a country initially selected, enter it in 'Initial Value.'"
+msgstr ""
+"Ini adalah kolom dropdown yang menampilkan negara-negara. Jika Anda ingin "
+"suatu negara terpilih pada saat awal, masukkan negara tersebut di 'Nilai "
+"Awal.'"
+
+#: ../custom-contact-forms-utils.php:78
+msgid "This field lets users reset all form fields to their initial values. This will be inserted next to the submit button."
+msgstr ""
+"Kolom ini membuat pengguna dapat mereset semua kolom formulir ke nilai "
+"awalnya. Ini akan ditempatkan di sebelah tombol kirim."
+
+#: ../custom-contact-forms.php:53
+msgid "Someone Filled Out Your Contact Form!"
+msgstr "Seseorang Mengisi Formulir Hubungi Anda!"
+
+#: ../custom-contact-forms.php:54
+msgid "Successful Form Submission"
+msgstr "Pengiriman Formulir Berhasil"
+
+#: ../custom-contact-forms.php:54
+msgid "Thank you for filling out our web form. We will get back to you ASAP."
+msgstr ""
+"Terima kasih telah mengisi formulir web kami. Kami akan segera menghubungi "
+"Anda ASAP."
+
+#: ../custom-contact-forms.php:55
+msgid "You filled out the form incorrectly."
+msgstr "Anda mengisi formulir dengan tidak tepat."
+
+#: ../custom-contact-forms.php:56
+msgid "You don't have the proper permissions to view this form."
+msgstr "Anda tidak memiliki hak akses yang sesuai untuk melihat formulir ini."
+
+#: ../modules/db/custom-contact-forms-activate-db.php:143
+msgid "Form Success!"
+msgstr "Formulir Sukses!"
+
+#: ../modules/db/custom-contact-forms-activate-db.php:222
+msgid "Type the numbers."
+msgstr "Tulis angkanya."
+
+#: ../modules/db/custom-contact-forms-activate-db.php:222
+msgid "Type the numbers displayed in the image above."
+msgstr "Tulis angka yang tampil dalam gambar di atas."
+
+#: ../modules/db/custom-contact-forms-activate-db.php:223
+msgid "Check if you are human."
+msgstr "Memeriksa apakah Anda manusia."
+
+#: ../modules/db/custom-contact-forms-activate-db.php:223
+msgid "This helps us prevent spam."
+msgstr "Ini membantu kami mencegah spam."
+
+#: ../modules/db/custom-contact-forms-activate-db.php:224
+msgid "Your Email"
+msgstr "Surel Anda"
+
+#: ../modules/db/custom-contact-forms-activate-db.php:224
+msgid "Please enter your email address."
+msgstr "Harap masukkan alamat surel Anda."
+
+#: ../modules/db/custom-contact-forms-activate-db.php:225
+msgid "Your Website"
+msgstr "Situs Anda"
+
+#: ../modules/db/custom-contact-forms-activate-db.php:225
+msgid "Please enter your website."
+msgstr "Harap masukkan situs web Anda."
+
+#: ../modules/db/custom-contact-forms-activate-db.php:226
+msgid "Email Subject"
+msgstr "Subjek Surel"
+
+#: ../modules/db/custom-contact-forms-activate-db.php:226
+msgid "Please enter a subject for the email."
+msgstr "Harap masukkan subjek untuk surel."
+
+#: ../modules/db/custom-contact-forms-activate-db.php:227
+msgid "Reset Form"
+msgstr "Atur Ulang Formulir"
+
+#: ../modules/db/custom-contact-forms-activate-db.php:228
+msgid "Select a State"
+msgstr "Pilih Negara Bagian"
+
+#: ../modules/db/custom-contact-forms-activate-db.php:229
+msgid "Select a Country"
+msgstr "Pilih Negara"
+
+#: ../modules/db/custom-contact-forms-db.php:423
+msgid "Non-Registered User"
+msgstr "Pengguna yang Tidak Terdaftar"
+
+#: ../modules/db/custom-contact-forms-default-db.php:26
+msgid "Please enter your full name."
+msgstr "Harap masukkan nama lengkap Anda."
+
+#: ../modules/db/custom-contact-forms-default-db.php:28
+msgid "When Should I Contact You:"
+msgstr "Kapan saya dapat Menghubungi Anda:"
+
+#: ../modules/db/custom-contact-forms-default-db.php:29
+msgid "Please choose a date you would like to be contacted."
+msgstr "Silakan pilih tanggal dimana Anda ingin dihubungi."
+
+#: ../modules/db/custom-contact-forms-default-db.php:32
+msgid "Enter any message or comment."
+msgstr "Masukkan pesan atau komentar."
+
+#: ../modules/db/custom-contact-forms-default-db.php:34
+msgid "Your Phone Number:"
+msgstr "Nomor Telpon Anda:"
+
+#: ../modules/db/custom-contact-forms-default-db.php:35
+msgid "Please enter your phone number."
+msgstr "Harap masukkan nomor telpon Anda."
+
+#: ../modules/db/custom-contact-forms-default-db.php:37
+msgid "Did you find my website through Google?"
+msgstr "Apakah Anda menemukan situs web saya melalui Google?"
+
+#: ../modules/db/custom-contact-forms-default-db.php:38
+msgid "If you found my website through Google, check this box."
+msgstr "Jika Anda menemukan situs web saya melalui Google, contreng kotak ini."
+
+#: ../modules/db/custom-contact-forms-default-db.php:40
+msgid "How should we contact you?"
+msgstr "Bagaimana kami dapat menghubungi Anda?"
+
+#: ../modules/db/custom-contact-forms-default-db.php:41
+msgid "By which method we should contact you?"
+msgstr "Dengan metode apa kami dapat menghubungi Anda?"
+
+#: ../modules/db/custom-contact-forms-default-db.php:47
+msgid "Please Select:"
+msgstr "Silakan Pilih:"
+
+#: ../modules/db/custom-contact-forms-default-db.php:48
+msgid "By Email"
+msgstr "Melalui Surel"
+
+#: ../modules/db/custom-contact-forms-default-db.php:49
+msgid "By Phone"
+msgstr "Melalui Telpon"
+
+#: ../modules/db/custom-contact-forms-default-db.php:50
+msgid "Do Not Contact Me"
+msgstr "Jangan Hubungi Saya"
+
+#: ../modules/db/custom-contact-forms-default-db.php:51
+msgid "Yes, I did."
+msgstr "Ya"
+
+#: ../modules/db/custom-contact-forms-default-db.php:52
+msgid "Contact Form"
+msgstr "Contact Form"
+
+#: ../modules/db/custom-contact-forms-default-db.php:53
+msgid "Thank you for filling out our contact form. We will be contacting you very soon."
+msgstr ""
+"Terima kasih telah mengisi formulir kontak kami. Kami akan segera "
+"menghubungi Anda."
+
+#: ../modules/db/custom-contact-forms-default-db.php:54
+msgid "Thank You!"
+msgstr "Terima Kasih!"
+
+#: ../modules/export/custom-contact-forms-export.php:24
+msgid "Date"
+msgstr "Tanggal"
+
+#: ../modules/export/custom-contact-forms-export.php:24
+msgid "Form Location"
+msgstr "Lokasi Formulir"
+
+#: ../modules/export/custom-contact-forms-export.php:113
+msgid "Custom Contact Forms Export File"
+msgstr "Berkas Ekspor Custom Contact Forms"
+
+#: ../modules/export/custom-contact-forms-export.php:114
+msgid "It is recommended that you do not edit this file. The order of the"
+msgstr "Direkomendasikan agar Anda tidak menyunting berkas ini. Urutan"
+
+#: ../modules/export/custom-contact-forms-export.php:115
+msgid "queries is important if you intend to use this file through the CCF"
+msgstr ""
+"query adalah hal penting jika Anda ingin menggunakan berkas ini melalui CCF"
+
+#: ../modules/export/custom-contact-forms-export.php:116
+msgid "exporter. The query to update general settings MUST be the last query"
+msgstr ""
+"exporter. Query untuk memutakhirkan pengaturan umum HARUS ada di akhir query"
+
+#: ../modules/export/custom-contact-forms-export.php:117
+msgid "in this file."
+msgstr "dalam berkas ini."
+
+#: ../modules/export/custom-contact-forms-user-data.php:79
+msgid "View File Upload"
+msgstr "Lihat Berkas yang Diunggah"
+
+#: ../modules/usage_popover/custom-contact-forms-quick-start-popover.php:1
+msgid "Quick Start Guide"
+msgstr "Panduan Singkat"
+
+#: ../modules/usage_popover/custom-contact-forms-quick-start-popover.php:3
+msgid "If you want to quickly and easily create a form and insert it in to your WordPress site, then follow these simple instructions."
+msgstr ""
+"Jika Anda ingin membuat formulir secara cepat dan mudah dan memasukkannya ke "
+"dalam situs WordPress, maka ikuti instruksi sederhada berikut."
+
+#: ../modules/usage_popover/custom-contact-forms-quick-start-popover.php:6
+msgid "First insert some default content by clicking the button below. This will create a standard form automatically that, if you wish, can be customized later."
+msgstr ""
+"Pertama masukkan beberapa konten baku dengan cara meng-klik tombol di bawah. "
+"Ini akan membuat formulir standar secara otomatis yang mana, jika Anda "
+"menghendaki, dapat disesuaikan kemudian."
+
+#: ../modules/usage_popover/custom-contact-forms-quick-start-popover.php:8
+msgid "Insert Default Content"
+msgstr "Masukkan Konten Bawaan"
+
+#: ../modules/usage_popover/custom-contact-forms-quick-start-popover.php:11
+msgid "Insert the code, [customcontact form=1], in any page or post. If you want to insert a form in to a theme file, locate the form in the form manager in the admin panel where you will find the theme display code."
+msgstr ""
+"Masukkan kode, [customcontact form=1], di halaman atau kiriman mana pun. "
+"Jika Anda ingin memasukkan formulir ke dalam berkas tema, cari formulir "
+"tersebut di pengelolaan formulir dalam panel admin dimana Anda akan "
+"menemukan kode tampilan tema."
+
+#: ../modules/usage_popover/custom-contact-forms-quick-start-popover.php:12
+msgid "Done! Pretty simple, huh? Custom Contact Forms allows you to create extremely customizable forms, you just have to familiarize yourself with the plugin; this guide is a great way to get started quickly but doesn't make use of the myriad of possibilities."
+msgstr ""
+"Selesai! Cukup sederhana, ya? Custom Contact Forms mengizinkan Anda untuk "
+"membuat formulir yang sangat mudah disesuaikan, Anda hanya perlu membiasakan "
+"diri Anda sendiri dengan pengaya ini; Panduan ini merupakan cara yang bagus "
+"untuk dapat memulainya dengan cepat tapi tidak menggunakan setiap "
+"kemungkinan yang ada."
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:1
+msgid "Plugin Usage Popover"
+msgstr "Popover Pemakaian Pengaya"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:11
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:191
+msgid "Fixed Fields"
+msgstr "Kolom Tetap"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:23
+msgid "Import/Export"
+msgstr "Impor/Ekspor"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:30
+msgid "Introduction"
+msgstr "Pendahuluan"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:33
+msgid ""
+"CCF is an extremely intuitive plugin allowing you to create any type of contact form you can imagine. CCF is very user friendly but with possibilities comes complexity. It is recommend that you click the button below to create default fields, field options, and forms.\n"
+"                    The default content will help you get a feel for the amazing things you can accomplish with this plugin. This popover only shows automatically the first time you visit the admin page;"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:36
+msgid "if you want to view this popover again, click the 'Show Plugin Usage Popover'"
+msgstr ""
+"jika Anda ingin melihat popover ini lagi, klik 'Tampilkan Popover Pemakaian "
+"Pengaya'"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:38
+msgid "in the instruction area of the admin page."
+msgstr "di area instruksi dalam halaman admin."
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:44
+msgid "Below is a basic usage outline of the four pillars of this plugin: fields, field options, styles, and forms. Another useful part of the plugin is the 'Custom HTML Feature' which allows you to write the form HTML yourself using the plugin simply as a form processor; this is great if you are a web developer with HTML experience. Also explained below is the 'Saved Form Submissions' feature which displays all form submissions in the admin panel."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:52
+msgid "Fields are the actual input boxes in which users enter their information. There are six types of fields that you can attach to your forms.!"
+msgstr ""
+"Kolom merupakan kotak masukan sebenarnya di mana pengguna memasukkan "
+"informasinya. Ada enam jenis kolom yang dapat Anda lampirkan ke dalam "
+"formulir Anda.!"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:56
+msgid "Text:"
+msgstr "Teks:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:59
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:80
+msgid "This is a text field"
+msgstr "Ini adalah sebuah kolom teks"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:63
+msgid "Date:"
+msgstr "Tanggal:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:66
+msgid "A Date field looks exactly the same as a Text field. But when a user clicks a Date field, a calender popover is displayed allowing a user to easily insert a date in to your form."
+msgstr ""
+"Kolom Tanggal terlihat sama persis dengan kolom Teks. Tapi ketika pengguna "
+"meng-klik kolom Tanggal, sebuah popover kalender akan ditampilkan membuat "
+"pengguna dapat dengan mudah memasukkan tanggal ke dalam formulir Anda."
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:70
+msgid "File:"
+msgstr "Berkas:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:73
+msgid "This is a file field. Attaching on of these to your forms allows users to send files to you (files are also stored on your server). You can set a max upload size as well as limit the allowed file types."
+msgstr ""
+"Ini adalah kolom berkas. Melampirkan kolom ini ke formulir Anda membuat "
+"pengguna dapat mengirimkan berkas ke Anda (berkas juga disimpan di server "
+"Anda). Anda dapat menentukan ukuran unggah maks serta membatasi jenis berkas "
+"yang diizinkan."
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:77
+msgid "Textarea:"
+msgstr "Areateks:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:84
+msgid "Dropdown:"
+msgstr "Dropdown:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:89
+msgid "This is a dropdown field"
+msgstr "Ini adalah kolom dropdown"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:92
+msgid "Field Option 2!"
+msgstr "Opsi Kolom 2!"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:95
+msgid "Field Option 3!"
+msgstr "Opsi Kolom 3!"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:98
+msgid "Field Option 4!"
+msgstr "Opsi Kolom 4!"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:101
+msgid "Unlimited # of options allowed"
+msgstr "# opsi yang diizinkan tak terbatas"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:107
+msgid "Radio:"
+msgstr "Radio:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:111
+msgid "A radio field"
+msgstr "Sebuah kolom radio"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:113
+msgid "Field Option 2"
+msgstr "Opsi Kolom 2"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:115
+msgid "Field Option 3"
+msgstr "Opsi Kolom 3"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:119
+msgid "Checkbox:"
+msgstr "Kotak Contreng:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:123
+msgid "This is a checkbox field"
+msgstr "Ini adalah kolom kotak contreng"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:127
+msgid "(advanced) Hidden:"
+msgstr "(tingkat lanjut) Tersembunyi:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:129
+msgid "These fields are hidden (obviously), they allow you to pass hidden information within your forms. Great for using other form processors like Aweber or InfusionSoft."
+msgstr ""
+"Kolom ini tersembunyi (jelas), mereka memungkinkan Anda untuk menyampaikan "
+"informasi tersembunyi dalam formulir Anda. Sangat baik untuk digunakan "
+"bersama-sama dengan pemroses formulir lain seperti Aweber atau Infusionsoft."
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:133
+msgid "There are a variety of different options that you can use when creating a field,"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:135
+msgid "denotes something required:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:141
+msgid "A slug is simply a way to identify your field. It can only contain underscores, letters, and numbers and must be unique."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:151
+msgid "The six field types you can choose from are explained above."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:156
+msgid "This is the initial value of the field. If you set the type as checkbox, it is recommend you set this to what the checkbox is implying. For example if I were creating the checkbox 'Are you human?', I would set the initial value to 'Yes'. If you set the field type as 'Dropdown' or 'Radio', you should enter the slug of the field option you would like initially selected (or just leave it blank and the first option attached will be selected)."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:161
+msgid "This allows you to limit the amount of characters a user can enter in a field (does not apply to textareas as of version 3.5.5)"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:166
+msgid "If a field is required and a user leaves it blank, the plugin will display an error message explaining the problem. The user will then have to go back and fill in the field properly."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:171
+msgid "If this is filled out, a stylish tooltip popover displaying this text will show when the field is selected. This will only work if JQuery is enabled in general options."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:179
+msgid "(advanced) Field Class:"
+msgstr "(tingkat lanjut) Kelas Kolom:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:181
+msgid "This allows you to assign a CSS class to an individual field without affecting anything else. This is a great way to take the customization of your form to the next level."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:184
+msgid "Field Options:"
+msgstr "Opsi Kolom:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:186
+msgid "After you create a field, if it's field type is radio or dropdown, you can attach field options to the field. Field options are explained in the next section."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:194
+msgid "The last important thing related to fields are <span>Fixed Fields</span>. Fixed Fields are special fields that come already created within the plugin such as the captcha spam blocker and email field. Fixed Fields do special things that you wouldn't be able to accomplish with normal fields; they cannot be deleted or created. For example, if you use the fixedEmail field, as opposed to creating your own email field. the users email will be checked to make sure it is valid, if it isn't a form error will be displayed. Below is a list of fixed fields and their descriptions."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:197
+msgid "fixedEmail:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:197
+msgid "When attached to a form and set to required, this field will validate a user's email addresses. If a user's email is not valid, an error will be shown."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:198
+msgid "captcha:"
+msgstr "captcha:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:198
+msgid "This field helps prevent spam by prompting users to copy numbers displayed on an image. If a user copies the numbers incorrectly, the form will show an error."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:199
+msgid "fixedWebsite:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:199
+msgid "When attached to a form and set to required, this field will validate a user's website. If a user's website is not valid, an error will be shown."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:200
+msgid "emailSubject:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:200
+msgid "This lets a user enter in an email subject that will carry over as the subject of the email sent to you on form completion"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:201
+msgid "usaStates:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:201
+msgid "This field displays a dropdown of all the states in the US."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:202
+msgid "allCountries:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:202
+msgid "This field displays a dropdown of all the countries in the world."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:203
+msgid "resetButton:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:203
+msgid "Attaching this field adds a reset button right next to the submit button in your form."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:204
+msgid "ishuman:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:204
+msgid "This field helps prevent spam by prompting users to check a box to verify that they are human. If the box is left unchecked, an error will be displayed and the user will have to go back."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:212
+msgid "In the field section above, look at the radio or dropdown fields. See how they have multiple options within the field? Those are called Field Options. Field Options have their own manager. There are only three things you must fill in to create a field option."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:218
+msgid "Used to identify the field option, solely for admin purposes; must be unique, and contain only letters, numbers, and underscores. Example: 'slug_one'."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:223
+msgid "This is what is shown to the user in the dropdown or radio field."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:228
+msgid "This is the actual value of the option which isn't shown to the user. This can be the same thing as the label. An example pairing of label => value is: 'The color green' => 'green' or 'Yes' => '1'. The option value is behind the scences; unseen by the user, but when a user fills out the form, the option value is what is actually emailed to you and stored in the database. For dropdown fields the option value is optional, <span>for radio fields it is required</span>."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:232
+msgid "Option 1"
+msgstr "Opsi 1"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:232
+msgid "Option 2"
+msgstr "Opsi 2"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:233
+msgid "Dead options are only useful for required dropdown fields. The first field option \"Please Select\" would be a useful way to encorporate a dead option. Assume the field is required; if a user submitted that field and left it as \"Please Select:\", then the form would throw an error and the user would have to go back."
+msgstr ""
+"Opsi bukan pilihan hanya berguna untuk kolom dropdown yang diperlukan. Opsi "
+"kolom pertama \"Silakan Pilih\" merupakan contoh bagus penggunaan opsi bukan "
+"pilihan. Asumsikan kolom tersebut diperlukan; jika pengguna mengirim kolom "
+"itu dan membiarkannya tetap \"Silakan Pilih:\", maka formulir akan menampilkan "
+"pesan kesalahan dan pengguna tersebut harus kembali lagi."
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:237
+msgid "Once you create field options, you can attach them (in the field manager) to radio and dropdown fields (that are already created). It is important to remember that after you create a dropdown or radio field, they will not work until you attach one or more field options."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:245
+msgid "Forms bring everything together. Each form you create in the form manager shows a code to display that form in posts/pages as well as theme files. The post/page form display code looks like: [customcontact id=FORMID]. There are a number of parameters that you can fill out when creating and managing each of your forms."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:251
+msgid "A slug is simply a way to identify your form. It can only contain underscores, letters, and numbers and must be unique. Example 'my_contact_form'"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:256
+msgid "The form title is heading text shown at the top of the form to users. Here's an example: 'My Contact Form'."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:259
+msgid "Form Method:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:261
+msgid "If you don't know what this is leave it as 'Post'. This allows you to change the way a form sends user information."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:264
+msgid "Form Action:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:266
+msgid "This allows you to process your forms using 3rd party services or your own scripts. If you don't know what this is, then leave it blank. This is useful if you use a service like Aweber or InfusionSoft."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:271
+msgid "This allows you to apply styles you create in the style manager to your forms. If you haven't created a custom style yet, just choose 'Default'."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:276
+msgid "Here, you can specify the text that shows on the submit button."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:279
+msgid "Custom Code:"
+msgstr "Kode Kastem:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:281
+msgid "If unsure, leave blank. This field allows you to insert custom HTML directly after the starting form tag."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:286
+msgid "Specify the email address(es) that should receive all form submissions. Seperate multiple email addresses with semi-colons (ex: email1@gmail.com;email2@gmail.com;email3@gmail.com). If you leave this blank it will revert to the default specified in general settings. You can set forms not to send email in General Settings."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:291
+msgid "Will be displayed in a popover after the form is filled out successfully when no custom success page is specified; if left blank it will use the default specified in general settings."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:301
+msgid "If this is filled out, users will be sent to this page when they successfully fill out the form. If it is left blank, a popover showing the form's 'success message' will be displayed on successful form submission."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:304
+msgid "Email From Name:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:306
+msgid "The email sent to you on form completion will be from this name. If this is left blank, it will default to the 'Default From Name' provided in General Settings."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:309
+msgid "Email Subject:"
+msgstr "Subjek Surel:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:311
+msgid "This is the subject of the email that will be sent to you on form completion. If this is left blank, it will default to the 'Default Email Subject' provided in General Settings."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:314
+msgid "Can View Form:"
+msgstr "Dapat Melihat Formulir:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:316
+msgid "This lets you choose which types of users can view your form. If you want everyone to see the form, check all the boxes. If a user doesn't have access to the form, they will not be able to see it."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:319
+msgid "Attach Fields:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:321
+msgid "After creating a form you are given the option to attach (and detach) fields to that specific form. Forms are useless until you attach fields."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:325
+msgid "The form success message and success title apply to a popover that fades in after someone successfully completes a form (that does not have a custom success URL provided). The image below will help to give you a feel to how the popover will look and where the title and message actually show up."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:331
+msgid "Style Manager"
+msgstr "Pengelolaan Gaya"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:334
+msgid "The style manager allows you to customize the appearance of forms without any knowledge of CSS. There are a ton of parameters you can fill out with each style and all of them are pretty self-explanitory. After you create a style, you need to go to the form manager and set the form style to the new style you created (the slug will be what shows in the 'Form Style' dropdown)."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:337
+msgid "The image below will help you better understand how each style option will change your forms."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:343
+msgid "Custom HTML Forms Feature (advanced)"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:346
+msgid "If you know HTML and simply want to use this plugin to process form requests, this feature is for you. The following HTML is a the framework to which you must adhere. In order for your form to work you MUST do the following:"
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:350
+msgid "Keep the form action/method the same (yes the action is supposed to be empty)."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:353
+msgid "Include all the hidden fields shown below."
+msgstr "Termasuk semua kolom tersembunyi yang ditampilkan di bawah ini."
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:356
+msgid "Provide a hidden field with a success message or thank you page (both hidden fields are included below, you must choose one or the other and fill in the value part of the input field appropriately)."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:360
+msgid "Just to be clear, you don't edit the code in the Custom HTML Forms feature within the admin panel. Instead, you copy the code in to the page, post, or theme file you want to display a form, then edit the code to look how you want following the guidelines provided above."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:368
+msgid "This features saves each user form submission. All the fields attached to the form along with the time of submission and form URL are saved in the database and displayed in a stylish format in the admin panel."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:373
+msgid "Import / Export"
+msgstr "Impor / Ekspor"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:376
+msgid ""
+"Import/export is a new feature that allows you to transfer forms, fields, field options, styles and everything else saved by the plugin between Wordpress installations. Clicking the Export All button will create a .SQL file for download. With the .SQL export file you can use the importer within the CCF plugin admin page to import the .SQL file. The built-in importer is completely safe as long as you only import files that have been generated by the CCF exporter. \n"
+"                            You can also use PHPMyAdmin or any other MySQL database administration tool to run the import file. Importing a .SQL file will never overwrite any existing data. \n"
+"                            It is strongly recommended that you import CCF .SQL files using the built-in importer with in the admin panel due to the added complexity of importing using alterative methods.\n"
+"                            If you are importing without using the built-in importer (such as PHPMyAdmin), then note the following: You should only run the import file on Wordpress installations that already have Custom Contact Forms installed; also you will need to change the table prefix for each query within the .SQL file."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:381
+msgid "Custom Contact Forms allows you to import data in different ways."
+msgstr ""
+"Custom Contact Forms mengizinkan Anda untuk mengimpor data dengan beragam "
+"cara."
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:383
+msgid "Clear and Import:"
+msgstr "Bersihkan dan Impor:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:383
+msgid "This is the safest way to import because it deletes all current content before importing. This is important because it prevents occurences of conflicting data ID's or slugs."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:385
+msgid "You can also export data in different ways."
+msgstr "Anda juga dapat mengekspor data dengan beragam cara."
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:387
+msgid "Export All:"
+msgstr "Ekspor Semua:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:387
+msgid "This exports all custom contact form data including your general settings in SQL format. This is allows you to easily create backups."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:388
+msgid "Export All Saved Form Submission to CSV:"
+msgstr "Ekspor Semua Kiriman Formulir ke CSV:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:388
+msgid "This exports all your saved form submissions into a .CSV file. Since this export contains multiple forms that are assumed to have different fields, this export will only contain the value of each field and not the name of that field."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:389
+msgid "Export Specific Form's: Submissions to CSV:"
+msgstr "Ekspor Kiriman Formulir Tertentu ke CSV:"
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:389
+msgid "This exports a specific form's saved form submissions. This CSV export will probably more useful to you because it will contain the name of fields as well as the values. This export works best on forms that have fields that have remained completely constant throughout submission."
+msgstr ""
+
+#: ../modules/usage_popover/custom-contact-forms-usage-popover.php:391
+msgid "More import/export methods will be added in the future. Always create a backup before attempting an import! * Note: If you are having problems getting the importer/exporter to work, try CHMODing the import/ and export/ directories to 0777."
+msgstr ""
+
+#: ../modules/widget/custom-contact-forms-dashboard.php:11
+msgid "Custom Contact Forms - Saved Form Submissions"
+msgstr ""
+
+#: ../modules/widget/custom-contact-forms-dashboard.php:73
+msgid "No submissions to display."
+msgstr "Tak ada kiriman yang ditampilkan."
+
+#: ../modules/widget/custom-contact-forms-dashboard.php:102
+msgid "View"
+msgstr "Lihat"
+
+#: ../modules/widget/custom-contact-forms-dashboard.php:103
+msgid "CCF Saved Form Submission"
+msgstr ""
+
+#: ../modules/widget/custom-contact-forms-dashboard.php:106
+msgid "Form Submitted:"
+msgstr ""
+
+#: ../modules/widget/custom-contact-forms-dashboard.php:106
+msgid "Not Found"
+msgstr "Tak Ditemukan"
+
+#: ../modules/widget/custom-contact-forms-dashboard.php:107
+msgid "Form Location:"
+msgstr "Lokasi Formulir:"
+
+#: ../modules/widget/custom-contact-forms-dashboard.php:129
+#: ../modules/widget/custom-contact-forms-dashboard.php:139
+msgid "View All Submissions"
+msgstr "Lihat Semua Kiriman"
+
+#: ../modules/widget/custom-contact-forms-widget.php:10
+msgid "Add a customized contact form to your sidebar."
+msgstr ""
+
+#: ../modules/widget/custom-contact-forms-widget.php:44
+msgid "Choose a Form:"
+msgstr "Pilih Formulir:"
+
+#: ../modules/widget/custom-contact-forms-widget.php:55
+msgid "Create a Form"
+msgstr "Buat Formulir"
